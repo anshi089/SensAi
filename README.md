@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-- clone github repository using "git clone 
+- clone github repository using "git clone https://github.com/anshi089/SensAi.git"
 
 First, run the development server:
 
