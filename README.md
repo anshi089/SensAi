@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Overview
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/78a928d2-c915-499d-b9d6-021bd34c2236" />
+![<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/77117cf2-9779-483e-9e9c-f2555bab0a23" />
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/14b3e73c-de13-4197-845c-cd74d0507612" />
+<img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/0c4ede61-0fae-407d-8ff9-b5f1a5295d7f" />
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/53a310c1-2b18-4885-8361-1eaea77bdff0" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/5e90ce5d-789a-404f-a290-54cdf6d1315b" />
+
+
 ## Getting Started
 - clone github repository using "git clone https://github.com/anshi089/SensAi.git"
 
