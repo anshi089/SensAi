@@ -8,9 +8,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/53a310c1-2b18-4885-8361-1eaea77bdff0" />
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/5e90ce5d-789a-404f-a290-54cdf6d1315b" />
 
+## Clone this repository on your system
+- clone github repository using "git clone https://github.com/anshi089/SensAi.git"
 
 ## Getting Started
-- clone github repository using "git clone https://github.com/anshi089/SensAi.git"
+
 
 First, run the development server:
 
